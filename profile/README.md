@@ -1,10 +1,11 @@
 # MathWorks Reference Architectures
 
-View by cloud platform or technology:
+View by platform or cloud technology:
 
 * [AWS](https://github.com/topics/matlab-aws)
 * [Azure](https://github.com/topics/matlab-azure)
 * [GCP](https://github.com/topics/matlab-gcp)
+* [Jupyter](https://github.com/topics/matlab-jupyter)
 * [Docker](https://github.com/topics/matlab-docker)
 * [Kubernetes](https://github.com/topics/matlab-kubernetes)
 
