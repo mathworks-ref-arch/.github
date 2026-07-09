@@ -6,6 +6,7 @@ View by platform or cloud technology:
 * [Azure](https://github.com/topics/matlab-azure)
 * [GCP](https://github.com/topics/matlab-gcp)
 * [Jupyter](https://github.com/topics/matlab-jupyter)
+* [Databricks](https://github.com/topics/matlab-databricks)
 * [Docker](https://github.com/topics/matlab-docker)
 * [Kubernetes](https://github.com/topics/matlab-kubernetes)
 
